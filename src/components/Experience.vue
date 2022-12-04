@@ -124,6 +124,53 @@
 			<h5>使用系統 : OS - GCP Linux Server & Redis DB</h5>		
 		</ul>		
 	</div>
+
+	<div class="grid3">		
+		<ul>		
+		<h2>台灣之星官網維護</h2>
+			<h5>內容 : 台灣之星官網維護與活動新增(Ex. 行銷接班人，官網Dashboard改動) </h5>
+			<h5>時間 : 2020/8~2021/2 </h5>
+			<h5>擔任職稱 : 前端工程師( 網頁前端處理 vue.js 與 css + 與後台soap API 連接)</h5>
+			<h5>使用技能 : Html & JavaScript & Vue.js & Maven</h5>
+			<h5>使用平台 :  Eclipse  </h5>	
+		</ul>
+   </div>
+
+   <div class="grid3">		
+		<ul>		
+		<h2>客服與小編專用平台 </h2>
+			<h5>內容 : 負責撰寫與除錯後台專用平台，ex. 分類功能管理 ， 廣告功能管理 ..等</h5>
+			<h5>時間 : 2021/3 ~ 2022/9</h5>
+			<h5>擔任職稱 : 後端工程師( 網頁前端處理 vue.js 與 css +  與後台 restful API 連接)</h5>
+			<h5>使用技能 : : JavaScript & Vue.js & Maven</h5>
+			<h5>使用平台 : VS Code ，k8s ， git</h5>
+			<h5>使用系統 : MySQL DB</h5>		
+		</ul>
+   </div>
+
+   <div class="grid3">		
+		<ul>		
+		<h2>各大api 功能除錯 </h2>
+			<h5>內容 : 負責處理QA 所發現的 api 功能錯誤，釐清原因並與前端討論該如何修改</h5>
+			<h5>時間 :  2021/3 ~ 2022/9 </h5>
+			<h5>擔任職稱 : 後端工程師(後台 java 程式端 ( user ，gift ， item ...)) + 與前端溝通</h5>
+			<h5>使用技能 : Java & Maven</h5>
+			<h5>使用平台 : VS Code ，k8s ， git</h5>
+			<h5>使用系統 : MySQL DB</h5>		
+		</ul>
+   </div>
+
+   <div class="grid3">		
+		<ul>		
+		<h2>商戶出貨系統革新</h2>
+			<h5>內容 : 商務系統由於過就耦合，不好做修改 於是希望能將此系統先做基本的功能翻新</h5>
+			<h5>時間 : 2021/3 ~ 2022/9 </h5>
+			<h5>擔任職稱 : 後端工程師( 研究原本程式碼所呼叫的 hybris 端 api 與參數 ) + 與前端溝通</h5>
+			<h5>使用技能 : Java & Maven </h5>
+			<h5>使用平台 :  VS Code ，k8s ， git</h5>
+			<h5>使用系統 :  MySQL DB & redis</h5>		
+		</ul>
+   </div>
   </div>
 
 	

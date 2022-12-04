@@ -8,7 +8,7 @@
 		
 		<h1>基本資料</h1>
 			<h5>姓名：高震育</h5>
-			<h5>希望求職地點 : 台北/新北</h5>
+			<h5>希望求職地點 : 台南</h5>
 			<h5>大學科系 : 台北大學資訊工程系</h5>
 			<h5>研究所科系 : 台灣大學醫學工程所醫學資訊組</h5>
 			<h5>E-mail : ae6013@gmail.com</h5>
@@ -21,13 +21,15 @@
    <div class="grid3">
 		<h1>能力縱述</h1>
 		<ul>
-			<h5>三年開發軟體前後端經驗</h5>
+			<h5>五年開發軟體前後端經驗</h5>
 			<h5>熟悉 JAVA 相關技能 - Spring-boot ， Spring MVC ， Javascript ， XML ， JSON ， Freemaker ， Restful API ， Web Service相關技能</h5>
 			<h5>熟悉 node.js 語言</h5>
 			<h5>熟悉 UML系統分析開發工具</h5>
 			<h5>熟悉 Windows 與 Linux 系統管理及維護</h5>
 			<h5>熟悉 Tomcat 安裝設定及維護</h5>
 			<h5>熟悉 MySQL 與 NoSQL(Redis 與 Mongo DB) 安裝，操作與維護</h5>
+			<h5>熟悉 K8S，Docker CI/CD 工具</h5>
+			<h5>熟悉 git，svn  版控工具</h5>
 			<h5> 工作態度積極，學習快速，能夠有良好溝通與互動</h5>
 			<h5> 可獨立開發或是團隊專案開發合作</h5>
 			<h5> 有 OCPJP 與 AZ-900 證照</h5>
@@ -37,7 +39,10 @@
 	<div class="grid3">
 		<h1>工作經歷</h1>
 		<ul>
-			<h5>台灣大哥大 MyMusic - 資深工程師 2016/11 - NOW </h5>
+			<h5>台灣大哥大 MyMusic - 資深工程師  2016/11 - 2020/4 </h5>
+			<h5>智誠科技服務股份有限公司 - 駐點於台灣之星 2020/8 ~2021/2</h5>
+			<h5> Shoalter - 後端工程師 2021/3 ~ 2022/9 </h5>
+			<h5> 緯創資通 - 後端工程師 2021/9 ~ now </h5>
 		</ul>
 	</div>
 	<div class="grid3">
@@ -146,7 +151,7 @@ export default {
 			/* 排版用，不影響功能*/
 			
 			margin: 10px;
-			background-color: rgba(0,191,255,0.4);
+			background-color:transparent;
 			font-size: 50px;
 			line-height: 300px;
 			text-align: left;

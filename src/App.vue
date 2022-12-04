@@ -16,7 +16,7 @@ import Navbar from './components/NavBar.vue';
 	data () {
 	return {
 		login: {
-            backgroundImage:"url(" + require("./assets/background.jpg") + ")"
+            backgroundImage:"url(" + require("./assets/background.png") + ")"
         }
 	}
 	
